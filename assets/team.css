@@ -1,0 +1,57 @@
+.teamContainer{
+    background-color: burlywood;
+}
+
+
+#team1 {
+	margin-top: 0px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+h2	{
+	text-align: center;
+	font-size: 35px;
+	padding-top: 25px;
+}
+.image1 {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: #eaebed;
+  object-fit: cover;
+}
+
+
+#image1 {
+	border-radius: 50%;
+	height: 250px;
+}
+
+
+.description {
+	text-align: center;
+}
+
+.description h5 {
+	font-weight: bold;
+}
+
+#aman, #jayant {
+	height: 260px;
+}
+
+#sai {
+	height: 180px;
+}
+
+#image2 {
+	height: 270px;
+}
+
+.web {
+	height: 230px;
+}
